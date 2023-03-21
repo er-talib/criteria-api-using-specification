@@ -1,0 +1,18 @@
+{
+	"productCost":12000,
+	"productName":"ABCD",
+	"company":"XYZ",
+	"productCode":"CB-1232",
+	"productType":"Food",
+	"deliveryDate":"12/03/2023",
+	"address":
+		{
+			"pinCode":234531,
+			"placeName":"Hapur",
+			"streatName":"ABC",
+			"landMark" : "Near Ralway Track",
+			"districtName":"Ghaziabad",
+			"stateName":"U P"	
+			
+	}
+}
